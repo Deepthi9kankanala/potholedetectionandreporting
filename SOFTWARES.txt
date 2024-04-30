@@ -1,0 +1,3 @@
+https://www.mongodb.com/try/download/shell--MONGO DB INSTALLATION
+
+https://code.visualstudio.com/download      ----VISUAL CODE INSTALLATION
